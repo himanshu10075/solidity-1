@@ -18,8 +18,8 @@ pragma solidity 0.8.18;
 contract MyToken {
 
     // public variables here
-    string public tokenName = "BITCOIN";
-    string public tokenAbbrv = "BTC";
+    string public tokenName = "ETHEREUM";
+    string public tokenAbbrv = "ETH";
     uint public totalSupply = 0;
 
     // mapping variable here
