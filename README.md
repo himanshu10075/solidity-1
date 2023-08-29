@@ -20,8 +20,8 @@ Once you are on the Remix website, create a new file by clicking on the "+" icon
   contract MyToken {
 
     // public variables here
-    string public tokenName = "BITCOIN";
-    string public tokenAbbrv = "BTC";
+    string public tokenName = "ETHEREUM";
+    string public tokenAbbrv = "ETH";
     uint public totalSupply = 0;
 
     // mapping variable here
